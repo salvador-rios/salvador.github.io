@@ -8,6 +8,8 @@ In addition to my technical skills, I speak English and Spanish fluently and am 
 
 Find my CV here.
 
+Technical Skills: Python, SQL, ML
+
 ### Education
 Management (Business Analytics), MSc
 UPF Barcelona School of Management
