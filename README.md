@@ -12,10 +12,12 @@ Technical Skills: Python, SQL, ML
 
 ### Education
 Management (Business Analytics), MSc
-UPF Barcelona School of Management
+
+UPF Barcelona School of Management, 2024
 
 Business Administration, BSc
-University of Amsterdam
+
+University of Amsterdam, 2020
 
 ### Projects
 
