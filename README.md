@@ -19,3 +19,6 @@ Business Administration, BSc | University of Amsterdam, 2020
 
 Below you will find my portfolio of data science/analytics projects describing the technology stack used to solve them.
 
+Predicting and Understanding Spanish Wine Ratings
+
+[Code](/projects/Predicting and Understanding Spanish Wine Ratings.ipynb)
