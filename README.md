@@ -6,7 +6,7 @@ During my studies and work, I’ve become comfortable with analyzing data, ident
 
 In addition to my technical skills, I speak English and Spanish fluently and am currently learning French (currently B1). Outside of work, I love exploring new data tools and finding creative ways to apply data to solve real-world problems with multicultural teams. I’m ready to bring this passion and my experience into a data-focused role, where I can continue growing and making a positive impact.
 
-Find my [CV](/assets/files/Salvador Rios CV.pdf) here.
+Find my [CV](/assets/files/CV.pdf) here.
 
 Technical Skills: Python, SQL, ML
 
