@@ -11,16 +11,11 @@ Find my [CV](/assets/files/CV.pdf) here.
 Technical Skills: Python, SQL, ML
 
 ### Education
-Management (Business Analytics), MSc
-UPF Barcelona School of Management, 2024
+Management (Business Analytics), MSc | UPF Barcelona School of Management, 2024
 
-Business Administration, BSc
-University of Amsterdam, 2020
+Business Administration, BSc | University of Amsterdam, 2020
 
 ### Projects
 
-Data Science: Conducted a detailed analysis of Spanish wines to identify the factors that contribute to higher ratings. This project involved examining key attributes such as region, price, and type, using data to uncover patterns that influence wine quality. By leveraging predictive models, we aimed to forecast wine ratings based on these characteristics, providing valuable insights for producers, consumers, and retailers alike.
+Below you will find my portfolio of data science/analytics projects describing the technology stack used to solve them.
 
-Bid and Project Management: Spearheaded the sales and management strategy for deploying Emergency Restoration System towers in Estonia. This role involved cross-functional collaboration with multiple BUs. Managed the bid and manufacture planning, supplier management, and oversaw logistics to ensure efficient deployment and operational success.
-
-Strategic Market Expansion: Led contract negotiations, partner selection, and market research to introduce a specialized technical product to the Indian market. Overcame high entry barriers and competitiveness by selecting a local partner, navigating regulatory environments, and winning the first tender in India. This project enhanced my ability to handle regulatory compliances, stakeholder interactions, and strategic market entry.
