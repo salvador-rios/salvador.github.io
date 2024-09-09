@@ -21,7 +21,7 @@ Below you will find my portfolio of data science/analytics projects describing t
 
 Predicting and Understanding Spanish Wine Ratings
 
-[Code](/projects/Predicting and Understanding Spanish Wine Ratings.ipynb)
+[Code](/projects/Predicting_and_Understanding_Spanish_Wine_Ratings.ipynb)
 
 Description: Wine is not just a drink, it's a culture, especially in Spain, where winemaking is an integral part of life. This project analyzes a dataset of Spanish wines, aiming to understand what makes a great wine. We explore various factors like wine regions, prices, and types to uncover patterns, and then predict the ratings of these wines based on those features.
 
