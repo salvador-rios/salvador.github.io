@@ -23,6 +23,8 @@ Predicting and Understanding Spanish Wine Ratings
 
 [Code](/projects/Predicting_and_Understanding_Spanish_Wine_Ratings.ipynb)
 
+Skills: data cleaning, EDA, correlation matrix, feature engineering, pipelines
+
 Description: Wine is not just a drink, it's a culture, especially in Spain, where winemaking is an integral part of life. This project analyzes a dataset of Spanish wines, aiming to understand what makes a great wine. We explore various factors like wine regions, prices, and types to uncover patterns, and then predict the ratings of these wines based on those features.
 
 The key questions are:
