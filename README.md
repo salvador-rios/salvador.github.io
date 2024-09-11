@@ -11,9 +11,9 @@ Find my [CV](/assets/files/CV.pdf) here.
 Technical Skills: Python, SQL, ML
 
 ### Education
-Management (Business Analytics), MSc | UPF Barcelona School of Management, 2024
+- Management (Business Analytics), MSc | UPF Barcelona School of Management, 2024
 
-Business Administration, BSc | University of Amsterdam, 2020
+- Business Administration, BSc | University of Amsterdam, 2020
 
 ### Projects
 
