@@ -19,7 +19,7 @@ Technical Skills: Python, SQL, ML
 
 Below you will find my portfolio of data science/analytics projects describing the technology stack used to solve them.
 
-Predicting and Understanding Spanish Wine Ratings
+#### Predicting and Understanding Spanish Wine Ratings
 
 [Code](/projects/Predicting_and_Understanding_Spanish_Wine_Ratings.ipynb)
 
