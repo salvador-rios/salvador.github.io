@@ -37,7 +37,7 @@ The insights gained from this project could be useful for wine producers, connoi
 
 #### Cleaning and Preprocessing the Sales Data of a Coffeeshop
 
-[Code](/)
+[Code](/projects/cafe_sales.ipynb)
 
 Skills: data cleaning and preprocessing (handling missing values, encoding categorical variables, identifying outliers)
 
