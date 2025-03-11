@@ -1,4 +1,4 @@
-# Business Analyst
+# PM/Data Analyst
 
 Hi, I'm Salvador! I’ve spent the last few years managing energy transition projects across different regions, but recently, I’ve developed a strong passion for data analytics and data science while completing my Master’s in Management, specializing in Business Analytics. Now, I’m excited to take the next step in my career and combine project management with data analytics, where I can apply the new skills I’ve learned.
 
