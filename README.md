@@ -1,10 +1,10 @@
 # PM/Data Analyst
 
-Hi, I'm Salvador! I’ve spent the last few years managing energy transition projects across different regions, but recently, I’ve developed a strong passion for data analytics and data science while completing my Master’s in Management, specializing in Business Analytics. Now, I’m excited to take the next step in my career and combine project management with data analytics, where I can apply the new skills I’ve learned.
+Hi, I’m Salvador! After managing energy transition projects across different regions, I developed a passion for data analytics while completing my Master’s in Business Analytics. Now, I’m excited to combine my project management experience with my new data skills.
 
-During my studies and work, I’ve become comfortable with analyzing data, identifying trends, and finding ways to improve processes. I’ve used tools like PowerBI and Python, but what excites me most is the potential of data to tell a story and help businesses make better decisions.
+Through my studies and work, I’ve become proficient at analyzing data, identifying trends, and improving processes using tools like PowerBI and Python. What excites me most is how data can tell stories and help businesses make smarter decisions.
 
-In addition to my technical skills, I speak English and Spanish fluently and am currently learning French (B1). Outside of work, I love exploring new data tools and finding creative ways to apply data to solve real-world problems with international teams. I’m ready to bring this passion and my experience into a data-focused role, where I can continue growing and making a positive impact.
+I’m fluent in English and Spanish, and currently learning French (B1). Outside of work, I enjoy traveling and going for runs in new places. I’m eager to bring my skills and passion to a data-focused role where I can continue growing and making an impact.
 
 Find my [CV](/assets/files/CV_RIOS-Salvador.pdf) here.
 
