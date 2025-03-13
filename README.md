@@ -31,9 +31,9 @@ Description: Wine is not just a drink, it's a culture, especially in Spain, wher
 
 The key questions are:
 
-What factors (such as region or price) correlate with higher wine ratings?
-Can we predict the quality of wine based on its attributes?
-The insights gained from this project could be useful for wine producers, connoisseurs, and even businesses in the hospitality industry.
+-What factors (such as region or price) correlate with higher wine ratings?
+-Can we predict the quality of wine based on its attributes?
+-The insights gained from this project could be useful for wine producers, connoisseurs, and even businesses in the hospitality industry.
 
 #### Cleaning and Preprocessing the Sales Data of a Coffeeshop
 
@@ -47,9 +47,9 @@ Description: This project focuses on the preprocessing and visualization of a sy
 
 Key Focus Areas:
 
-Handling missing values through imputation
-Encoding categorical variables for model readiness
-Detecting and managing outliers for accurate data analysis
+-Handling missing values through imputation
+-Encoding categorical variables for model readiness
+-Detecting and managing outliers for accurate data analysis
 
 #### Cleaning and Preprocessing Financial Data for Defense Contractors
 
@@ -64,6 +64,6 @@ In this project, I tackled a financial dataset related to defense contractors. T
 
 Key Focus Areas:
 
-Imputation of missing values using linear models
-Outlier handling through log transformation
-Visualizing data distributions before and after transformations
+-Imputation of missing values using linear models
+-Outlier handling through log transformation
+-Visualizing data distributions before and after transformations
