@@ -51,7 +51,7 @@ Detecting and managing outliers for accurate data analysis
 
 #### Cleaning and Preprocessing Financial Data for Defense Contractors
 
-[Code] (/projects/defense_contractors.ipynb)
+[Code](/projects/defense_contractors.ipynb)
 
 Skills: Data Cleaning, Handling Missing Values, Imputation Using Linear Regression, Outlier Detection and Handling (Log Transformation), EDA
 Tools Used: Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
