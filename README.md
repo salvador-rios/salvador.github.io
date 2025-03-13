@@ -24,6 +24,7 @@ Below you will find my portfolio of data science/analytics projects describing t
 [Code](/projects/Predicting_and_Understanding_Spanish_Wine_Ratings.ipynb)
 
 Skills: Data Cleaning, EDA, Correlation Matrix, Feature Engineering, Pipelines
+
 Tools Used: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Linear Regression, Logistic Regression, RandomForest, Tensorflow
 
 Description: Wine is not just a drink, it's a culture, especially in Spain, where winemaking is an integral part of life. This project analyzes a dataset of Spanish wines, aiming to understand what makes a great wine. We explore various factors like wine regions, prices, and types to uncover patterns, and then predict the ratings of these wines based on those features.
@@ -39,6 +40,7 @@ The insights gained from this project could be useful for wine producers, connoi
 [Code](/projects/cafe_sales.ipynb)
 
 Skills: Data Cleaning and Preprocessing (Handling Missing Values, Encoding Categorical Variables, Identifying Outliers)
+
 Tools Used: Python, Pandas, NumPy, Seaborn, Matplotlib
 
 Description: This project focuses on the preprocessing and visualization of a synthetic cafe sales dataset. The dataset comprises 10,000 rows of sales transactions, each detailing various aspects of individual sales. The primary goal is to clean the data, handle missing values, correct invalid entries, and perform exploratory data analysis (EDA) to extract meaningful insights.
@@ -54,6 +56,7 @@ Detecting and managing outliers for accurate data analysis
 [Code](/projects/defense_contractors.ipynb)
 
 Skills: Data Cleaning, Handling Missing Values, Imputation Using Linear Regression, Outlier Detection and Handling (Log Transformation), EDA
+
 Tools Used: Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
 
 Description:
