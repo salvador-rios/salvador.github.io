@@ -23,9 +23,8 @@ Below you will find my portfolio of data science/analytics projects describing t
 
 [Code](/projects/Predicting_and_Understanding_Spanish_Wine_Ratings.ipynb)
 
-Skills: data cleaning, EDA, correlation matrix, feature engineering, pipelines
-
-Tools Used: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Pipelines, Linear Regression, Logistic Regression, RandomForest, Tensorflow
+Skills: Data Cleaning, EDA, Correlation Matrix, Feature Engineering, Pipelines
+Tools Used: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Linear Regression, Logistic Regression, RandomForest, Tensorflow
 
 Description: Wine is not just a drink, it's a culture, especially in Spain, where winemaking is an integral part of life. This project analyzes a dataset of Spanish wines, aiming to understand what makes a great wine. We explore various factors like wine regions, prices, and types to uncover patterns, and then predict the ratings of these wines based on those features.
 
@@ -39,8 +38,29 @@ The insights gained from this project could be useful for wine producers, connoi
 
 [Code](/projects/cafe_sales.ipynb)
 
-Skills: data cleaning and preprocessing (handling missing values, encoding categorical variables, identifying outliers)
-
-Tools Used: Python, pandas, numpy, seaborn, matplotlib
+Skills: Data Cleaning and Preprocessing (Handling Missing Values, Encoding Categorical Variables, Identifying Outliers)
+Tools Used: Python, Pandas, NumPy, Seaborn, Matplotlib
 
 Description: This project focuses on the preprocessing and visualization of a synthetic cafe sales dataset. The dataset comprises 10,000 rows of sales transactions, each detailing various aspects of individual sales. The primary goal is to clean the data, handle missing values, correct invalid entries, and perform exploratory data analysis (EDA) to extract meaningful insights.
+
+Key Focus Areas:
+
+Handling missing values through imputation
+Encoding categorical variables for model readiness
+Detecting and managing outliers for accurate data analysis
+
+#### Cleaning and Preprocessing Financial Data for Defense Contractors
+
+[Code] (/projects/defense_contractors.ipynb)
+
+Skills: Data Cleaning, Handling Missing Values, Imputation Using Linear Regression, Outlier Detection and Handling (Log Transformation), EDA
+Tools Used: Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+
+Description:
+In this project, I tackled a financial dataset related to defense contractors. The goal was to handle missing values using linear regression imputation, address outliers through log transformation, and conduct exploratory data analysis to understand financial patterns. The cleaned and transformed dataset allows for more accurate analysis and predictive modeling.
+
+Key Focus Areas:
+
+Imputation of missing values using linear models
+Outlier handling through log transformation
+Visualizing data distributions before and after transformations
